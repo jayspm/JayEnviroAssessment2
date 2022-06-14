@@ -8,7 +8,7 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: creature_glow_MAT
-    second: {fileID: 2100000, guid: 9259368e455afb04893f61de3b0ad0fd, type: 2}
+    second: {fileID: 2100000, guid: 1b4e508daa2bf6149ba38770cbe91f60, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
