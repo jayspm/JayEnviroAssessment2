@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 6aff8d5ef012b81499fd9eefcc9e206e
+guid: ad4a6c977b386b3409acb97b0e4210f1
 ModelImporter:
   serializedVersion: 20200
   internalIDToNameTable: []
@@ -7,7 +7,7 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: creature_glow_MAT
+      name: creature_MAT
     second: {fileID: 2100000, guid: 1b4e508daa2bf6149ba38770cbe91f60, type: 2}
   materials:
     materialImportMode: 2
